@@ -1,0 +1,17 @@
+server:
+  port: 8081
+spring:
+  datasource:
+    url: jdbc:h2:file:~/data/productDB
+    driver-class-name: org.h2.Driver
+    username: sa
+    password: password
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+    hibernate:
+      ddl-auto: update
+  h2:
+    console:
+      enabled: true
+      settings:
+        web-allow-others: true
