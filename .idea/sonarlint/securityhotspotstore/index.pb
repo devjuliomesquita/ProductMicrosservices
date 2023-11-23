@@ -69,3 +69,9 @@ S
 Q.idea/sonarlint/securityhotspotstore/0/c/0c2123930d468460e64782e550048e702a128562,b\7\b762a300a8612358e21322e7741536cf6ea1fa33
 w
 G.idea/sonarlint/issuestore/0/c/0c2123930d468460e64782e550048e702a128562,9\8\98606fb07cd2063671515a28d69ade730cf3b030
+≤
+Åproject-event-source-cqrs/src/main/java/com/juliomesquita/projecteventsourcecqrs/query/api/controller/ProductQueryController.java,7\2\72bae045f373fc67a788dfc22c7c6fcdc2f2bf76
+ß
+wproject-event-source-cqrs/src/main/java/com/juliomesquita/projecteventsourcecqrs/query/api/queries/ProductQueryGet.java,d\0\d0ac5f758b28f6d753bfc52d4128c7485fae9030
+¨
+|project-event-source-cqrs/src/main/java/com/juliomesquita/projecteventsourcecqrs/query/api/projection/ProductProjection.java,c\1\c1ad7950ecac58bd691a95ea9e3fe2ea2ade65d5
